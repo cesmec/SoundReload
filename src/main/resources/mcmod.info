@@ -1,0 +1,16 @@
+[
+{
+  "modid": "soundreload",
+  "name": "Sound Reload Mod",
+  "description": "Enables hot-reload of the Sound System.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/cesmec/SoundReload",
+  "updateUrl": "",
+  "authorList": ["cesmec"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
