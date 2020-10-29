@@ -15,10 +15,3 @@ Download the latest jar from the [Releases](https://github.com/cesmec/SoundReloa
 ## Building from source
 
 See the [Forge README](./README-Forge.txt)
-
-Short version (IntelliJ):
-
-1. Run `./gradlew setupDecompWorkspace`
-1. Open the project in IntelliJ
-1. Run `./gradlew genIntellijRuns`
-1. Now you can start the Client using `./gradlew runClient` or build a jar using `./gradlew build`
